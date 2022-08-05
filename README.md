@@ -21,7 +21,7 @@ git clone https://github.com/abdelilahdourhmani/Dan9-first-blockchain-project.gi
 
 Install the dependencies:
 ```
-cd savjeecoin-frontend
+cd Dan9-first-blockchain-project.git
 npm install
 ```
 
