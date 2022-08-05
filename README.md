@@ -16,7 +16,7 @@ see the transaction inside them and even create new deals and mineblocks.
 Get a copy of the Dan9-first-blockchain-project running on your local machine (for playing around, testing or development).
 
 ```
-git clone 
+git clone https://github.com/abdelilahdourhmani/Dan9-first-blockchain-project.git
 ```
 
 Install the dependencies:
